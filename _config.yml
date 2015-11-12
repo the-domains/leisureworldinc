@@ -1,0 +1,23 @@
+name: leisureworldinc
+favicon: null
+layout_spectrum: 0.8514459505677223
+typography_spectrum: 0.7214843144174665
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.459485866362229
+  lightness: 0.9191453186795115
+  saturation: 0.33287486084736884
+  rhythmicContrast: 0.06070585222914815
+purpose: []
